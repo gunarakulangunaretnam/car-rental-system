@@ -321,3 +321,53 @@ This module also has validation errors messages. This module is responsible for 
 - Data grid view click able.
 
 This module contains information about driver. This is the driver management module. This contains information about the driver. Drivers are not compulsory for renting. Renting can also take place without driver. If the driver is included to the renting. The customer needs to pay some extra money for the driver salary.
+
+## 17.Booking Module
+
+
+![IMAGE-18](github-readme-content/18.jpg)
+
+### Features
+- Renting
+- Print Bill
+- Make changes to booking that has been done.
+- Search by Id
+
+This is the biggest and most important module in this system. It is very default to explain this module in this document. It looks like simple module but It has many complicated and many roles are taken place inside this module. Therefore, Better option is run the application and checkout this module for a movement.
+
+Here, the maximum I try to explain the process of the booking module as fast as possible. It has many sub forms inside the booking module such as for selecting the customer, choosing the car, assigning drivers, printing, discount and more and more.
+
+
+### Customer select form inside booking module
+
+![IMAGE-19](github-readme-content/19.jpg)
+
+When the user clicks the customer textbox, this sub form will be open. Here we have to select the customer. Inside this sub forms, we can search by Id, search by first name and list by gender. The main purpose of this form is to select the customer.
+
+### Car select Form inside booking module
+
+![IMAGE-20](github-readme-content/20.jpg)
+
+Note:- Same like customer select form, the only different is, this is car select form.
+
+### Driver select form inside booking module.
+
+![IMAGE-21](github-readme-content/21.jpg)
+
+If the customer says. They want to rent without a driver. There is a checkbox near the driver textbox. If the system operator clicks that, they can get the car without the driver.
+
+### Discount form inside booking module.
+
+![IMAGE-22](github-readme-content/22.jpg)
+
+### Make change Form inside booking module.
+
+![IMAGE-23](github-readme-content/23.jpg)
+
+This form is used to make changes to already booked rentals. For an example, one customer comes and he says he wants to hire a car for 10 days. After one hour he comes and tell I want for 5 days. For that kinds of circumstances, this form would be very useful. It does the math correctly and gives the right output. It has also different options to switch such daily or monthly. When they change the math is worked as 100% right.
+
+Not only that, sometimes, the customer would pay more advanced amount. When they change to days. The system needs to give the refund for them and print it in bill also. This type of math is worked 100% accuracy. This is the module I have worked hard and hard. Because It has many complicated algorithms inside this.  
+
+### Bill (Invoice)
+
+![IMAGE-24](github-readme-content/24.jpg)
