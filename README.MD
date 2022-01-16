@@ -124,3 +124,36 @@ There are 7 XML files are used inside the system. Each of them has different pur
 The business-related data are stored in the MySQL database. The System settings and configurations are stored in the XML files. But here comes one question?. If the Car Rental shop decided to change the computer. It means move the Car Rental system to another computer. They can back up the MySQL database easily. Then how can they back up the CRMS folder?.
 
 **Answer:** They have two options, one is manually, copy the files but that is very difficult for end-users because, the CRMS folder is located inside the AppData directory. But fortunately, we have an option inside Car Rental system settings to ZIP and backup CRMS folder safely. We also have an option to restore the CRMS folder to the correct location inside the AppData safely. This concept will be again explained very well in the settings module later.
+
+### XML files and its usages
+
+- 01.adminCredentials: which stores the admin account credentials inside that XML files with encryption.
+
+- 02.Credentials: which stores the credentials of staff accounts with encryption.
+
+- 03.databaseController which is used to determine the MySQL database is turn on or turn off. Or the database is deleted or not.
+- 04.discountSettings which stores the discount information about the system.
+
+- 05.kmSettings. This one stores information about the mileage and kilo-meter settings for the car rental system.
+
+- 06.PaymentSettings. This one contains information about the payment settings.
+
+- 07.userStatus, This controller which users logged in. according to the user it provides the access key to the car rental system.
+
+## 02.Security of the CRMS folder.
+
+The CRMS folder has to be very secure in order to prevent any types of hacking attacks such as seeing the password of the Car Rental system, deleting the folder or changing the XML file’s content manually. Generally speaking, no one will do it.
+
+### Encrypted the credentials
+
+We have two encrypted XML files inside the CRMS folder that stores the credentials information. The reason why we are encrypting those files. Because, the attacker can go the location of the CRMS folder and see the password or username, if is not encrypted.
+
+The encryption is very strong. Because we are using “256BitsOfRandomEntropy” method to encrypt the files. The encryption key is very strong. It combines all symbols, letters, numbers, and alphabetical character as encryption key.
+
+### CRMS Service
+
+CRMS Service is a windows service that has been developed to protect the CRMS folder from being deleted. This Service won’t allow the CRMS folder to be deleted. Because the CRMS folder contains most important files that are essential to run the application. This CRMS Protection Service will keep the file safe from being deleted.
+
+### File written permission are blocked.
+
+Sometimes the attacker can edit the XML files in order to make the system massed up. But by default. When the splash screen loaded the CRMS folder and its XML files are created. While they created they have restricted the file access mode to read only programmatically. But while we are writing any settings changes in the XML file via the Car Rental program. It changes the file access mode to write mode and after writing it change to read only mode. This keeps a really good security from changing the contents.
