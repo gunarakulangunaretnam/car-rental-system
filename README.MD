@@ -304,3 +304,20 @@ This module is clean and clear. We have fixed all of the bugs and validation. Th
 - Data grid view click able.
 
 This module also has validation errors messages. This module is responsible for customer management. It contains information about customer details. This is the customer management section. All of the customer related staffs are stored here.
+
+
+## 16.Driver Module
+
+![IMAGE-17](github-readme-content/17.jpg)
+
+### Features
+
+- Register Driver.
+- Delete Driver - confirm box will appear.
+- Update Driver
+- List by (Male or Female)
+- Search by First name
+- Search by Last name
+- Data grid view click able.
+
+This module contains information about driver. This is the driver management module. This contains information about the driver. Drivers are not compulsory for renting. Renting can also take place without driver. If the driver is included to the renting. The customer needs to pay some extra money for the driver salary.
