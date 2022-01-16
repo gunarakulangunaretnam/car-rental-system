@@ -176,3 +176,11 @@ information is stored.
 - oldbookdata: This table contains old history of booking details.
 
 - systemcontroller: This table contains some cashed information about the business data.
+
+## 04. Company Registration
+
+![IMAGE-5](github-readme-content/5.jpg)
+
+After the installation of the Car Renting Management System. This is the first form that the Car rental shop has to fill up. Here they have to enter their company name, address, phone numbers and etc. These details will be shown in the bill.
+
+This form will only appear the first time. After they enter their details, all of the company details will be stored in an XML file. According to their length of their company name and address in the bill font size and paper size will be decided programmatically.
