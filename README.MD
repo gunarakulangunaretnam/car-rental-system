@@ -157,3 +157,22 @@ CRMS Service is a windows service that has been developed to protect the CRMS fo
 ### File written permission are blocked.
 
 Sometimes the attacker can edit the XML files in order to make the system massed up. But by default. When the splash screen loaded the CRMS folder and its XML files are created. While they created they have restricted the file access mode to read only programmatically. But while we are writing any settings changes in the XML file via the Car Rental program. It changes the file access mode to write mode and after writing it change to read only mode. This keeps a really good security from changing the contents.
+
+## 03. MySQL Database
+
+The Business information are stored in the MySQL database. But the system settings and configurations are stored in XML files inside the CRMS folder. The database has some tables in order to maintain and save the data of the Car Rental system.
+
+![IMAGE-4](github-readme-content/4.jpg)
+
+
+- booking: This table contains the reservation details. All of the booking information are kept inside this booking table.
+
+- car: Inside the Car table, we stored only the car information.
+
+- customer: Inside the customer table. the customer’s
+information is stored.
+
+- driver: inside the driver table driver information is stored.
+- oldbookdata: This table contains old history of booking details.
+
+- systemcontroller: This table contains some cashed information about the business data.
