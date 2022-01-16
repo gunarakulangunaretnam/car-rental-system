@@ -266,3 +266,24 @@ After booking process, this message box will appear to ask if the bill is need o
 - Search by brand name
 - Search by ID
 - Data grid view is clickable
+
+This module is used to register car into the database. It is well bug free module. For example, it has proper validations. It only allows the right data to be entered into the system. Bellow I have written some validations and bugs that have solved in this module. This module was tested very well.
+
+#### Sample validation
+
+![IMAGE-15](github-readme-content/15.jpg)
+
+When the movement the user enters unallowed data to the filed. It will prompt this message box and shows the validation error.
+
+##### Attributes of car
+- Car ID
+- Brand
+- Model
+- Make Year
+- Color
+- Daily Rate
+- Monthly Rate
+- Odometer Type (Normal or Digital)
+- Odometer Value
+
+This module is clean and clear. We have fixed all of the bugs and validation. The main scope of the module is to store the car details. Then this car details can be used in the booking module to book the car. Once the car has been booked. It changes the car status to “OUT”. This process will be explained further in the booking module.
