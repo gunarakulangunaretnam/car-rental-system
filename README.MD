@@ -415,3 +415,44 @@ Not only the booking details, we can also see the customer, car and driver detai
 - Show profit from returned reservations
 
 This module the is profits management module. This is very useful for the organization to keep their finance details in a perfect manner. By using this module, They can maintain their business in a more accurate manner.
+
+
+## 21. Notification
+
+  ![IMAGE-29](github-readme-content/29.jpg)
+
+This is the notification section. This section does only one thing. It notifies the cars that has to be returned on the current date.
+
+## 22. Settings
+
+![IMAGE-30](github-readme-content/30.jpg)
+
+
+### Features
+- Change staff account credentials
+- Change admin account credentials
+- Restore database
+- Backup database
+- Delete Database
+- General settings
+- Payment settings
+- Mileage settings
+- Discount settings
+- Backup the system settings as zip file
+- See the activity log file
+- Trash-Bin
+
+
+## Important Code Snippets
+
+The Car Renting Management System has been built with 800000 thousand line of codes. The system was developed with more lines of C# codes. But in this section, we will only look the most important code snippets of the application.
+
+
+Any Questions? | Conduct Me
+---
+
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulan-gunaretnam-161119156/)
+* [Facebook Profile](https://www.facebook.com/gunarakulan)
+* [Twitter Profile](https://twitter.com/gunarakulang)
+* [Instagram Profile](https://www.instagram.com/gunarakulan_gunaretnam/)
+* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA/videos)
