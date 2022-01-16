@@ -201,3 +201,6 @@ The admin account is for the owner or the boss of the company. The admin has the
 This is the login panel of the staff account. The login panel of the admin account is also similar to this but, only the name will be changed as admin login. We have a button on the left side to go back to the choose account  form.
 
 If the password and username match in the XML file. The dashboard of the staff account will be open. If it is the admin login panel, the dashboard of the admin account will be opened.
+
+## 08. Staff dashboard
+![IMAGE-8](github-readme-content/8.jpg)
