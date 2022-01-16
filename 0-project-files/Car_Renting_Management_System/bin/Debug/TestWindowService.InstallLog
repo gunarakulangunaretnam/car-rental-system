@@ -1,0 +1,31 @@
+﻿Installing assembly 'C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe
+Installing service CRMS Online Service...
+Creating EventLog source CRMS Online Service in log Application...
+Rolling back assembly 'C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe
+Restoring event log to previous state for source CRMS Online Service.
+Uninstalling assembly 'C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe
+Removing EventLog source CRMS Online Service.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Users\Joker Hacker\Documents\Visual Studio 2015\Projects\Car_Renting_Management_System\Car_Renting_Management_System\bin\Debug\TestWindowService.exe
+Removing EventLog source CRMS Online Service.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
