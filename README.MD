@@ -251,3 +251,18 @@ This box indicates that any successful messages such as insertion completed, or 
 
 
 After booking process, this message box will appear to ask if the bill is need or not. If the user clicks the print button, the bill will be printed.
+
+
+## 14.Car Module
+
+![IMAGE-14](github-readme-content/14.jpg)
+
+###  Functions
+
+- Add cars
+- Delete Cars – before deletion confirm box will be appear
+- Update Car
+- List car by Hired and Available
+- Search by brand name
+- Search by ID
+- Data grid view is clickable
