@@ -76,3 +76,20 @@ The main objective of this system is to provide convenience to the management te
 ### Project significance
 
 CRMS sharply improve the searching speed of staffs, drivers and client’s details for the user because staff who works in the system can insert key word to search them. Besides that, Admin can get benefit because it manages the booking of cars by show available cars for client and always records every single booking to easy the company report so that admin and staff can just print the report. Admin also does not have to calculate the profit for cars owner because the system will produce report and calculate the profit sharing. CRMS also give client benefit because allow them make booking at anywhere and anytime before they want it.
+
+## Entire function of the system
+
+In this section, the entire function of the Car Renting Management System is going to explain from scratch. For the explanation purpose, the screenshots of the applications and some important code snippets will be used to demonstrate the function of the system.
+This section will give a clear statement of the modules of the car renting management system with the perfect explanation. This car rental document has some more details information about the application.
+
+### Essential Functions
+- Car Management
+- Customer Management
+- Driver Management
+- Booking Process
+- Returning Car  
+- Reports
+- Profits Management
+- Notifications => Notifies cars that have to return on the current date.
+
+These are main functions that occurs inside the car renting management system. beyond this there are several other types of functions are occurred inside the system. This structure of this application is so different. Because this application uses MySQL and XML as the main component of the database. MySQL is used to store data about the car information or other bossiness details hence XML sore data about the car renting management system configurations.
