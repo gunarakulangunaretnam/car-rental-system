@@ -287,3 +287,20 @@ When the movement the user enters unallowed data to the filed. It will prompt th
 - Odometer Value
 
 This module is clean and clear. We have fixed all of the bugs and validation. The main scope of the module is to store the car details. Then this car details can be used in the booking module to book the car. Once the car has been booked. It changes the car status to “OUT”. This process will be explained further in the booking module.
+
+
+## 15.Customer Module
+
+![IMAGE-16](github-readme-content/16.jpg)
+
+### Features
+
+- Register Customer.
+- Delete Customer - confirm box will appear.
+- Update Customer
+- List by (Male or Female)
+- Search by First name
+- Search by Last name
+- Data grid view click able.
+
+This module also has validation errors messages. This module is responsible for customer management. It contains information about customer details. This is the customer management section. All of the customer related staffs are stored here.
