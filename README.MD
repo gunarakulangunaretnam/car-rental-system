@@ -203,4 +203,12 @@ This is the login panel of the staff account. The login panel of the admin accou
 If the password and username match in the XML file. The dashboard of the staff account will be open. If it is the admin login panel, the dashboard of the admin account will be opened.
 
 ## 08. Staff dashboard
+
 ![IMAGE-8](github-readme-content/8.jpg)
+
+
+This is the dashboard of the staff account. In the staff account only the setting module will be missed. These are the modules that the staff has to work on. But the staff does not have access to the settings module. Only the admin will have the setting module shown.
+
+## 09. Admin Dashboard
+
+![IMAGE-9](github-readme-content/9.jpg)
