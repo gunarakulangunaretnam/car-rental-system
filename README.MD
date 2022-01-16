@@ -375,3 +375,43 @@ Not only that, sometimes, the customer would pay more advanced amount. When they
 ## 18. Returning
 
 ![IMAGE-25](github-readme-content/25.jpg)
+
+This is returning module. After the renting completed, when car arrives, extra mileage and extra driver salary have to be calculated in an accurate manner.
+
+The system operator means the staff will see the odometer value and enters the value in the end mileage textbox. And select the date that the car arrived. These are the two things that the system operator has to do after the car arrived. The rest of the calculation works are done by the system automatically.
+
+Finally, it prints a bill for them. In the new bill. Extra day and other kinds of essential things will be included.
+
+
+## 19. Reports
+
+![IMAGE-26](github-readme-content/26.jpg)
+
+
+This is the report module of the system. It has many different kinds of searching methods to filter data.
+
+### Features  
+
+- List by returned car
+- List by pending car
+- Search by order ID
+- Search by Customer ID
+- Search by Car ID
+
+Not only the booking details, we can also see the customer, car and driver details in this report. If we want to know customer, car or driver details, point the cursor on the cell and right click. The menu will be popup.
+
+![IMAGE-27](github-readme-content/27.jpg)
+
+ ## 20.Profits
+
+ ![IMAGE-28](github-readme-content/28.jpg)
+
+ ### Features
+- Show profit by daily
+- Show profit by monthly
+- Specific Date
+- Specific Month
+- Show profit from pending reservations
+- Show profit from returned reservations
+
+This module the is profits management module. This is very useful for the organization to keep their finance details in a perfect manner. By using this module, They can maintain their business in a more accurate manner.
