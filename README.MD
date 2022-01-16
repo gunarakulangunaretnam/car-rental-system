@@ -184,3 +184,12 @@ information is stored.
 After the installation of the Car Renting Management System. This is the first form that the Car rental shop has to fill up. Here they have to enter their company name, address, phone numbers and etc. These details will be shown in the bill.
 
 This form will only appear the first time. After they enter their details, all of the company details will be stored in an XML file. According to their length of their company name and address in the bill font size and paper size will be decided programmatically.
+
+
+## 05. Choose Account Type.
+
+![IMAGE-6](github-readme-content/6.jpg)
+
+Like it is already mentioned, This Car Renting Management System has two types of accounts such as Staff and Admin. The first one is staff. Staff is nothing but a person who works on the system to enter car details, customer details, booking and so on. The staff cannot have privileges to access the system settings such as changing credentials or customizing the system.
+
+The admin account is for the owner or the boss of the company. The admin has the full control over the system. The admin can have the privileges to change passwords usernames, turn on discount, change mileage settings, delete the database, back up the database, restore the database and so on. The admin has the full potential to customize the system according to their business needs. This Car Renting Management System has a lot of settings and configuration that will be discussed later.
