@@ -212,3 +212,24 @@ This is the dashboard of the staff account. In the staff account only the settin
 ## 09. Admin Dashboard
 
 ![IMAGE-9](github-readme-content/9.jpg)
+
+This is the admin dashboard. It contains all the privileges and modules. I prefer to explain the entire Car Renting Management System in the Admin account. Because it has all the modules in it.
+
+### Modules
+
+- Car
+- Customer
+- Driver
+- Booking
+- Returning
+- Reports
+- Profits
+- Notification
+- Settings
+
+
+## 10. Error Message Box
+
+![IMAGE-10](github-readme-content/10.jpg)
+
+This is the error message box. If any validation or any other types of error occurs inside the system. This box will be shown instead of the traditional box. It was created to attract the user.
