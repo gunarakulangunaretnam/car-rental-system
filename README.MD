@@ -236,4 +236,18 @@ This is the error message box. If any validation or any other types of error occ
 
 ## 11. Success Message Box
 
+![IMAGE-11](github-readme-content/11.jpg)
+
 This box indicates that any successful messages such as insertion completed, or after the booking process and etc.
+
+
+## 12.Confirm Box
+
+![IMAGE-12](github-readme-content/12.jpg)
+
+## 13.Print Box
+
+![IMAGE-13](github-readme-content/13.jpg)
+
+
+After booking process, this message box will appear to ask if the bill is need or not. If the user clicks the print button, the bill will be printed.
