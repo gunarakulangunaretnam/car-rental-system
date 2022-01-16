@@ -190,6 +190,14 @@ This form will only appear the first time. After they enter their details, all o
 
 ![IMAGE-6](github-readme-content/6.jpg)
 
-Like it is already mentioned, This Car Renting Management System has two types of accounts such as Staff and Admin. The first one is staff. Staff is nothing but a person who works on the system to enter car details, customer details, booking and so on. The staff cannot have privileges to access the system settings such as changing credentials or customizing the system.
+Like it is already mentioned, This Car Renting Management System has two types of accounts such as Staff and Admin. The first one is staff. Staff is nothing but a person who works on the system to enter car details, customer details, booking and etc. The staff cannot have privileges to access the system settings such as changing credentials or customizing the system.
 
-The admin account is for the owner or the boss of the company. The admin has the full control over the system. The admin can have the privileges to change passwords usernames, turn on discount, change mileage settings, delete the database, back up the database, restore the database and so on. The admin has the full potential to customize the system according to their business needs. This Car Renting Management System has a lot of settings and configuration that will be discussed later.
+The admin account is for the owner or the boss of the company. The admin has the full control over the system. The admin can have the privileges to change passwords usernames, turn on discount, change mileage settings, delete the database, back up the database, restore the database and etc. The admin has the full potential to customize the system according to their business needs. This Car Renting Management System has a lot of settings and configuration that will be discussed later.
+
+## 07. Login
+
+![IMAGE-7](github-readme-content/7.jpg)
+
+This is the login panel of the staff account. The login panel of the admin account is also similar to this but, only the name will be changed as admin login. We have a button on the left side to go back to the choose account  form.
+
+If the password and username match in the XML file. The dashboard of the staff account will be open. If it is the admin login panel, the dashboard of the admin account will be opened.
