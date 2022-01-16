@@ -1,4 +1,4 @@
-# Introduction to Car Rental System
+# Introduction to Car Rental Management System
 
 A car rental or car hire agencies are private companies that provide short-time leasing vehicles for a specified time with a fee to their customers. This is the definition of car renting.
 
@@ -15,3 +15,35 @@ The software can be customizable according to the business needs such as per day
 This application is pretty easy to get well on it since it has many easily understandable features. Therefore, the person who works in this system can quickly pick up the working methodologies.
 
 There are many modules inside the system for different sorts of purposes.
+
+
+
+### Programming Languages & Frameworks
+- C#
+- MySQL
+- XML
+- Bunifu
+- Metro UI
+- Mono Flat
+- .NET Framework 4.6
+
+
+## Configuration & Setup
+
+**Step 01:-** Create a database on MySQL with the name of "rentcarsystem".
+
+**Step 02:-** Export the database to the empty created database. Note: the database is found on the "1-database folder (rentcarsystem.sql)". Upload this database to the empty database on MySQL management panel.
+
+**Step 03:-** Open the profile-files folder with Visual Studio and build then run the application.
+
+### Login Information
+
+#### Admin Login
+
+- *Username:* kuna
+- *Password:* 123
+
+#### Staff Login
+
+- *Username:* guna
+- *Password:* guna123
