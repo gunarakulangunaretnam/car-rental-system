@@ -233,3 +233,7 @@ This is the admin dashboard. It contains all the privileges and modules. I prefe
 ![IMAGE-10](github-readme-content/10.jpg)
 
 This is the error message box. If any validation or any other types of error occurs inside the system. This box will be shown instead of the traditional box. It was created to attract the user.
+
+## 11. Success Message Box
+
+This box indicates that any successful messages such as insertion completed, or after the booking process and etc.
