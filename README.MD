@@ -371,3 +371,7 @@ Not only that, sometimes, the customer would pay more advanced amount. When they
 ### Bill (Invoice)
 
 ![IMAGE-24](github-readme-content/24.jpg)
+
+## 18. Returning
+
+![IMAGE-25](github-readme-content/25.jpg)
