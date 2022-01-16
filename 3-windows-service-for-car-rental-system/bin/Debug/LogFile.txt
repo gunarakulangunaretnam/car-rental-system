@@ -1,0 +1,4 @@
+2/9/2018 10:33:25 PM: The CRMS Online system is started
+2/9/2018 10:33:55 PM: Searching for the specified server IP 198.67.36.55
+2/9/2018 10:34:25 PM: Searching for the specified server IP 198.67.36.55
+2/9/2018 10:34:27 PM: The server is not found Network error 404!

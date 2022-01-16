@@ -1,0 +1,19 @@
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.config
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.pdb
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csprojResolveAssemblyReference.cache
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.exe
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.pdb
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+C:\Sandbox\WindowServices\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csproj.GenerateResource.Cache
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe.config
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\obj\Debug\TestWindowService.exe
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\obj\Debug\TestWindowService.pdb
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\bin\Debug\TestWindowService.pdb
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csprojResolveAssemblyReference.cache
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+C:\Users\Joker Hacker\Downloads\Compressed\TestWindowService\TestWindowService\obj\Debug\TestWindowService.csproj.GenerateResource.Cache
+D:\01.My Data\TestWindowService\bin\Debug\TestWindowService.exe.config
+D:\01.My Data\TestWindowService\obj\Debug\TestWindowService.exe
+D:\01.My Data\TestWindowService\obj\Debug\TestWindowService.pdb

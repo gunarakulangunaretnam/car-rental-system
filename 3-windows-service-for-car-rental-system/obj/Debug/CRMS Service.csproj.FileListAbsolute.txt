@@ -1,0 +1,7 @@
+D:\01.My Data\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+D:\01.My Data\TestWindowService\obj\Debug\CRMS Service.csproj.GenerateResource.Cache
+D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe.config
+D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe
+D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.pdb
+D:\01.My Data\TestWindowService\obj\Debug\CRMS_Protection_Service.exe
+D:\01.My Data\TestWindowService\obj\Debug\CRMS_Protection_Service.pdb

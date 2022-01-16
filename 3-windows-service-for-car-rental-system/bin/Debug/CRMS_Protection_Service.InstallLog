@@ -1,0 +1,26 @@
+﻿Installing assembly 'D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.InstallLog
+   assemblypath = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe
+Installing service CRMS WebClient...
+Service CRMS WebClient has been successfully installed.
+Creating EventLog source CRMS WebClient in log Application...
+Committing assembly 'D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.InstallLog
+   assemblypath = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe
+Installing assembly 'D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.InstallLog
+   assemblypath = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe
+Installing service CRMS Protection Service...
+Service CRMS Protection Service has been successfully installed.
+Creating EventLog source CRMS Protection Service in log Application...
+Committing assembly 'D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.InstallLog
+   assemblypath = D:\01.My Data\TestWindowService\bin\Debug\CRMS_Protection_Service.exe
