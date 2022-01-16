@@ -93,3 +93,34 @@ This section will give a clear statement of the modules of the car renting manag
 - Notifications => Notifies cars that have to return on the current date.
 
 These are main functions that occurs inside the car renting management system. beyond this there are several other types of functions are occurred inside the system. This structure of this application is so different. Because this application uses MySQL and XML as the main component of the database. MySQL is used to store data about the car information or other bossiness details hence XML sore data about the car renting management system configurations.
+
+## 01.Splash Screen
+
+![IMAGE-1](github-readme-content/1.jpg)
+
+After the installation of this Car Renting Management System. It is the first form that loads to the entire Car Rental Application. When the first time it loads, it creates a folder called CRMS in the Users/account-Name/AppData/ Roaming/CRMS directives in order to maintain the system configurations.
+
+![IMAGE-2](github-readme-content/2.jpg)
+
+This is the CRMS folder. That will be created at the first time when we are launching the application. Inside the folder, there will be some XML and text files will be created in order to maintain the system settings and configurations. This is the main component of the application.
+
+![IMAGE-3](github-readme-content/3.jpg)
+
+Inside the CRMS folder, these are some main files that will be created at the first times of opening the Car Rental application. There are 7 XML files created, First is a Text file and second is a trash-bin folder will be created. The trash-bin folder has the same functionalities like the Recycle-Bin in windows.
+
+### Text Files
+
+There is only one text file inside the CRMS folder called ActivityLog.txt That file stores activities with time and date such as add customer, database deletion and all most every activities that occurs inside the system. It also records the time and the date that the system turns on and turn off. Then We access and see the records via the Car rental System.
+
+### Trash-Bin
+
+The trash-bin folder has the same functionalities like the Recycle-Bin in windows. This trash bin is programmatically coded in that way. The purpose of this trash-bin is to protect the database and other important files of the system.
+
+For an example we have an option inside the Car Rental system to delete the database. When the movement the Car Rental MySQL database is deleted. It backs up the database inside the trash-bin for safety purpose. In some circumstances, if we lose the Car Rental MySQL database. We can restore it from the trash-bin. Because it backs ups the database when it is deleted.
+
+### XML Files
+
+There are 7 XML files are used inside the system. Each of them has different purposes. The reason why we are using the XML files for system settings and configurations not using MySQL for that. This system is not developed for a one specific Car Rental shop. It is developed as a general system for different kinds of Car Rental shop. According to their needs, they can customize the system.
+The business-related data are stored in the MySQL database. The System settings and configurations are stored in the XML files. But here comes one question?. If the Car Rental shop decided to change the computer. It means move the Car Rental system to another computer. They can back up the MySQL database easily. Then how can they back up the CRMS folder?.
+
+**Answer:** They have two options, one is manually, copy the files but that is very difficult for end-users because, the CRMS folder is located inside the AppData directory. But fortunately, we have an option inside Car Rental system settings to ZIP and backup CRMS folder safely. We also have an option to restore the CRMS folder to the correct location inside the AppData safely. This concept will be again explained very well in the settings module later.
