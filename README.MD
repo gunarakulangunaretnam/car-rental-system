@@ -1,4 +1,6 @@
-# Introduction to Car Rental Management System
+# Car Rental Management System
+
+## Introduction 
 
 A car rental or car hire agencies are private companies that provide short-time leasing vehicles for a specified time with a fee to their customers. This is the definition of car renting.
 
