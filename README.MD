@@ -450,11 +450,12 @@ This is the notification section. This section does only one thing. It notifies 
 The Car Renting Management System has been built with 800000 thousand line of codes. The system was developed with more lines of C# codes. But in this section, we will only look the most important code snippets of the application.
 
 
-Social Media Links
----
+## Social Links
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam/)
-* [Facebook Page](https://www.facebook.com/gunarakulangunaretnam)
-* [Twitter Profile](https://twitter.com/gunarakulan)
-* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam/)
-* [Youtube Channel](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
+* [Facebook Profile](https://www.facebook.com/gunarakulangr.page)
+* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
+* [Twitter Profile ](https://twitter.com/gunarakulangr)
+* [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
+* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
+* [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
