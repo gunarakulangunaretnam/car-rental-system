@@ -1,4 +1,4 @@
-# CAR RENTAL MANAGEMENT SYSTEM
+# Car Rental System
 
 ## Introduction 
 
@@ -450,7 +450,7 @@ This is the notification section. This section does only one thing. It notifies 
 The Car Renting Management System has been built with 800000 thousand line of codes. The system was developed with more lines of C# codes. But in this section, we will only look the most important code snippets of the application.
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
